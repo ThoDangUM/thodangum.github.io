@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Dang Huu Tho"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD in robotics"
+  location         : "Montpellier, France"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://thodangum.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
