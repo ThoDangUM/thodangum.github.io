@@ -11,11 +11,27 @@ This is a description of a teaching experience in Vietnam.
 
 Linear system
 ======
-* Multivaribal linear system
-* Control Theory for linear system
+* SISO-MIMO system
+* State-space model
+* Root-locus method
+* Bode plot
 
-Nonlinear system
+Fundamentals in robotics
 ======
+* Notations
+* Coordinate transformations
+* Mobile robots
+* Manipulation robots
+* Kinematic and kinetic models
 
-PLC
+Industrial Networks
 ======
+* Modbus
+* CAN
+* Profibus
+
+PLC (Programmable Logical Controlller)
+======
+* Schneider
+* Omron
+* Siemens
