@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience in Vietnam"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2008-2015-Vietnam-teaching-1
+venue: "Ho Chi Minh University of Transport, Electrical and Electronic Engineering"
+location: "Ho Chi Minh City, Vietnam"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience in Vietnam.
 
-Heading 1
+Linear system
+======
+* Multivaribal linear system
+* Control Theory for linear system
+
+Nonlinear system
 ======
 
-Heading 2
-======
-
-Heading 3
+PLC
 ======
