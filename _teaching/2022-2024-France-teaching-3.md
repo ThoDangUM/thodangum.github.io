@@ -1,20 +1,28 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience in France 2022-2024"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Engineering School"
+permalink: /teaching/2022-2024-France-teaching-3
+venue: "Monptpellier University, Polytech"
+location: "Montpellier, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience in France.
 
-Heading 1
+Multivariable Linear System
 ======
 
-Heading 2
+Discrete-Event System
 ======
 
-Heading 3
+Discrete-Time System
+======
+
+Mobile Robot
+======
+
+Manipulation Robot
+======
+
+Automatic and Network
 ======
