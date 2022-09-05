@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2008-2015-Vietnam-teaching-1
 venue: "Ho Chi Minh University of Transport, Electrical and Electronic Engineering"
+date: 2008-2015
 location: "Ho Chi Minh City, Vietnam"
 ---
 
