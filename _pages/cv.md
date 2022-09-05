@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Underwater Robotics, Montpellier University, France, 2021
+* M.S. in Control Theory, HCMC University of Technology, Vietnam, 2007
+* B.s in Automation Engineering, HCMC University of Technology, Vietnam, 2003
 
 Work experience
 ======
