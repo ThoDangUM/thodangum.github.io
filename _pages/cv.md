@@ -43,16 +43,13 @@ Work experience
 * 02/2003-03/2008: Engineer
   * Southern Airport Authority, Vietnam
   * Duties inclued: Design and maintainance Engineer
-  
+
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Matlab, Python, C++
+* Robotics: ROS
+* CAD design: FreeCAD, Autocad, Solidworks, Ansys
 
 Publications
 ======
