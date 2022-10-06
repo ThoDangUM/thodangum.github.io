@@ -1,7 +1,7 @@
 ---
 title: 'Linear regression'
 date: 2022-10-07
-permalink: /posts/2012/08/blog-post-4/
+permalink:
 tags:
   - ML
   - category1
