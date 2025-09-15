@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dang Huu Tho"
+title                    : "Dang Tho"
 title_separator          : "-"
-name                     : &name "Dang Huu Tho"
+name                     : &name "Dang Tho"
 description              : &description "personal description"
 url                      : https://thodangum.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dang Huu Tho"
+  name             : "Dang Tho"
   avatar           : "profile.png"
   bio              : "PhD in robotics"
   location         : "Montpellier, France"
