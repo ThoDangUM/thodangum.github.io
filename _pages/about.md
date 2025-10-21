@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am Dang Huu Tho. I obtained PhD in robotics from Montpellier university, France, 2021. 
+I am Dang Tho. I obtained PhD in robotics from Montpellier university, France, 2021. My interests are robotic design, optimization, machine learning and reinforcement learning in robotics. 
 
