@@ -8,9 +8,8 @@ author_profile: true
 My research tackles problems ???:
 
 - Design robot. 
-- Control robot. 
-
-Some the algorithms developed have been tested successfully with real marine robotic vehicles and described in the following pages.
+- Control robot.
+Algorithms are tested in real robots and in simulations. 
 <nbsp>
 
 {% include base_path %}

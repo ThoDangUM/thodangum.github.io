@@ -1,11 +1,11 @@
 ---
-title: "Optimal configuration"
+title: "Reinforcement Learning in Robotics"
 layout: single-portfolio
 # excerpt: "<img src='/images/research/digraph.png' alt=''>"
 collection: research
 order_number: 100
 ---
-Optimal configuration  
+Reinforcement learning in robotics 
 
 
 

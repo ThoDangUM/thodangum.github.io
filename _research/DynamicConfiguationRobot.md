@@ -1,11 +1,11 @@
 ---
-title: "Optimal configuration"
+title: "Dynamically configurable robot"
 layout: single-portfolio
 # excerpt: "<img src='/images/research/digraph.png' alt=''>"
 collection: research
 order_number: 100
 ---
-Optimal configuration  
+Dynamic configuration robot
 
 
 
