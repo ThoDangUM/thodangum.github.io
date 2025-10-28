@@ -10,5 +10,5 @@ redirect_from:
 
 I am Dang Tho. I obtained PhD in robotics from Montpellier university, France, 2021. My interests are robotic design, optimization, machine learning and reinforcement learning in robotics. Add photo here.
 
-<img src="/images/500x300.png" width="75%" style="display: block; margin: auto;" />
+<img src="/images/research_domains.png" width="100%" style="display: block; margin: auto;" />
 
