@@ -9,6 +9,7 @@ My research tackles problems of designing and controlling robots:
 
 - Design robot. 
 - Control robot.
+- AI in robotics.
 
 Algorithms are tested in real robots and in simulations. 
 <nbsp>
