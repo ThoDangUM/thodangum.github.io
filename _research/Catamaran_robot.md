@@ -1,11 +1,11 @@
 ---
-title: "Reinforcement Learning in Robotics"
+title: "Catamaran robot"
 layout: single-portfolio
-excerpt: "<img src='/images/research/RL.png' alt=''>"
+excerpt: "<img src='/images/research/ASV_catamaran.jpg' alt=''>"
 collection: research
 order_number: 100
 ---
-Reinforcement learning in robotics 
+Path planning for Catamaran
 
 
 

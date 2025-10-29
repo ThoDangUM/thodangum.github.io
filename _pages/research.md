@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research tackles problems ???:
+My research tackles problems of designing and controlling robots:
 
 - Design robot. 
 - Control robot.

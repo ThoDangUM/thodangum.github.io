@@ -1,7 +1,7 @@
 ---
 title: "Dynamically configurable robot"
 layout: single-portfolio
-# excerpt: "<img src='/images/research/digraph.png' alt=''>"
+excerpt: "<img src='/images/research/UMRobot.jpg' alt=''>"
 collection: research
 order_number: 100
 ---

@@ -1,11 +1,11 @@
 ---
-title: "Reinforcement Learning in Robotics"
+title: "Neural Network Control"
 layout: single-portfolio
-excerpt: "<img src='/images/research/RL.png' alt=''>"
+excerpt: "<img src='/images/research/Bluerov_new.jpg' alt=''>"
 collection: research
 order_number: 100
 ---
-Reinforcement learning in robotics 
+Neural Network Control
 
 
 

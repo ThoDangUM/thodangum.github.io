@@ -1,7 +1,7 @@
 ---
 title: "Optimal configuration"
 layout: single-portfolio
-# excerpt: "<img src='/images/research/digraph.png' alt=''>"
+excerpt: "<img src='/images/research/CubeinWater.png' alt=''>"
 collection: research
 order_number: 100
 ---
