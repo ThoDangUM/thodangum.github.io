@@ -1,7 +1,7 @@
 ---
 title: "Catamaran robot"
 layout: single-portfolio
-excerpt: "<img src='/images/research/ASV_catamaran.jpg' alt=''>"
+excerpt: "<img src='/images/research/ASVcatamaran.jpg' alt=''>"
 collection: research
 order_number: 100
 ---

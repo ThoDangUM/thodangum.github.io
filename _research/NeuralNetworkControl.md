@@ -1,7 +1,7 @@
 ---
 title: "Neural Network Control"
 layout: single-portfolio
-excerpt: "<img src='/images/research/Bluerov_new.jpg' alt=''>"
+excerpt: "<img src='/images/research/Bluerov.jpg' alt=''>"
 collection: research
 order_number: 100
 ---
