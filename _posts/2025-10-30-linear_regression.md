@@ -1,7 +1,9 @@
 ---
 title: 'Linear regression'
-date: 2022-10-07
-permalink:
+date: 2025-10-30
+permalink:  /posts/2025/linear_regression/
+excerpt_separator: <!--more-->
+usemath: true
 tags:
   - ML
   - category1

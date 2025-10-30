@@ -1,7 +1,9 @@
 ---
 title: 'policy gradient methods'
 date: 2025-09-15
-permalink:
+permalink: /posts/2025/reinforcement_learning/
+excerpt_separator: <!--more-->
+usemath: true
 tags:
   - ML
   - category1
