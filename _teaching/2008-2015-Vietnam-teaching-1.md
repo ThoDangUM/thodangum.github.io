@@ -7,7 +7,6 @@ venue: "Ho Chi Minh University of Transport, Electrical and Electronic Engineeri
 location: "Ho Chi Minh City, Vietnam"
 ---
 
-This is a description of a teaching experience in Vietnam.
 
 Linear system
 ======
