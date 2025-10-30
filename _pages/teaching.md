@@ -10,7 +10,7 @@ title: "Teaching"
 - Manipulation robot
 - Automatic and Network
 
-## Undergraduate courses, University Technology Petronas, Malaysia (2015-2017)
+## University Technology Petronas, Malaysia (2015-2017)
 - Plant process
 - Instrumentation and Measurement
 - Probability and Random process
