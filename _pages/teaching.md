@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 Experiences in teaching as follows:
+<nbsp>
 
 {% include base_path %}
 
