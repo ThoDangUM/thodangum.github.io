@@ -1,14 +1,37 @@
 ---
-layout: archive
-title: "Teaching"
 permalink: /teaching/
-author_profile: true
+title: "Teaching"
 ---
-I spent many years in teaching as follows:
-<nbsp>
 
-{% include base_path %}
+## Polytech Montpellier, France (2022-2024)
+- Multivariable linear systems
+- Discrete systems
+- Mobile robot
+- Manipulation robot
+- Automatic and Network
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Undergraduate courses, University Technology Petronas, Malaysia (2015-2017)
+- Plant process
+- Instrumentation and Measurement
+- Probability and Random process
+
+## University of Transports, Vietnam (2008-2015)
+- Linear system
+  - SISO - MIMO system
+  - State space model
+  - Root-locus method
+  - Bode Plot
+- Fundamentals in robotics
+  - Mobile robots
+  - Manipulators
+  - Kinematic and kinetic models
+  - Control
+- Industrial networks
+  - Modbus
+  - CAN
+  - Profibus
+- PLC (Programmable Logical Controller)
+  - Schneider
+  - Omron
+  - Siemens
+
