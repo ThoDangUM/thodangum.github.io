@@ -7,8 +7,6 @@ venue: "Universiti Tecknologi PETRONAS, Faculty of Electrical and Electronic Eng
 location: "Perak, Malaysia"
 ---
 
-This is a description of a teaching experience in Malaysia.
-
 Plant Process
 ======
 * Oil and Gas System

@@ -4,6 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+Experiences in teaching as follows:
 
 {% include base_path %}
 

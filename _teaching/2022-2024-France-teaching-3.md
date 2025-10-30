@@ -7,10 +7,12 @@ venue: "Monptpellier University, Polytech"
 location: "Montpellier, France"
 ---
 
-This is a description of a teaching experience in France.
-
 Multivariable Linear System
 ======
+* SISO-MIMO system
+* State-space model
+* Root-locus method
+* Bode plot
 
 Discrete-Event System
 ======
@@ -20,6 +22,11 @@ Discrete-Time System
 
 Mobile Robot
 ======
+* Notations
+* Coordinate transformations
+* Mobile robots
+* Manipulation robots
+* Kinematic and kinetic models
 
 Manipulation Robot
 ======
