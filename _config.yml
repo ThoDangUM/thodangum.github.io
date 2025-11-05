@@ -243,7 +243,7 @@ defaults:
   # _resources
   - scope:
       path: ""
-      type: resourcess
+      type: resources
     values:
       layout: single
       author_profile: true

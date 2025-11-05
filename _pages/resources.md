@@ -5,12 +5,20 @@ permalink: /resources/
 author_profile: true
 ---
 
+## Optimization
+ - Convex optimization
+ - ??
 ## Machine Learning
-???
+  - MLPs
+  - CNNs
+  - RNNs
+  - Transformer
 ## Robotics
-??
+  - Control
+  - Modelling
 ## Ros
-??
+  - Ros basics
+  - Docker
 
 <!-- {% include base_path %}
 
