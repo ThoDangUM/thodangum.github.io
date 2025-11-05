@@ -8,25 +8,32 @@ author_profile: true
 ## Optimization
   - Convex optimization
   - ??
+
 ## Machine Learning
   - MLPs
   - CNNs
   - RNNs
   - Transformer
+
 ## Robotics
   - Control
   - Modelling
+
 ## ROS
   - Ros basics
+
 ## Docker
   - ??
+
 ## Algorithms and Data Structures
   - ??
+
 ## C++ programming
   - ??
 
 ## Python programming
   - ??
+
 ## Mathematics
   - ??
 
