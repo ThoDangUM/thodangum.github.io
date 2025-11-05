@@ -5,15 +5,17 @@ excerpt: "<img src='/images/research/ASVcatamaran.jpg' alt=''>"
 collection: research
 order_number: 100
 ---
-Path planning for Catamaran
-
+This project proposed a optimal path planning method for a Catamaran. The catamaran was equiped with solar pannel and hydro generators which can produce energy in two ways. 
 
 
 ## Contributions
 ???
 
+## Videos
+??
+
 ## Related publications
 
-??
+will be appeared.
 
 <!-- [Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research} -->
