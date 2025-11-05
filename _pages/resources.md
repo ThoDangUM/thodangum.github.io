@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Optimization
- - Convex optimization
- - ??
+  - Convex optimization
+  - ??
 ## Machine Learning
   - MLPs
   - CNNs
@@ -16,9 +16,20 @@ author_profile: true
 ## Robotics
   - Control
   - Modelling
-## Ros
+## ROS
   - Ros basics
-  - Docker
+## Docker
+  - ??
+## Algorithms and Data Structures
+  - ??
+## C++ programming
+  - ??
+
+## Python programming
+  - ??
+## Mathematics
+  - ??
+
 
 <!-- {% include base_path %}
 
