@@ -1,7 +1,7 @@
 ---
 title: "Localization Navaigation and SLAM for Robotics"
 layout: single-portfolio
-excerpt: "<img src='/images/research/TurtleBot.png' alt=''>"
+excerpt: "<img src='/images/research/TurtleBot.jpg' alt=''>"
 collection: research
 order_number: 100
 ---
