@@ -5,14 +5,14 @@ excerpt: "<img src='/images/research/ASVcatamaran.jpg' alt=''>"
 collection: research
 order_number: 100
 ---
-This project proposed a optimal path planning method for a Catamaran. The catamaran was equiped with solar pannel and hydro generators which can produce energy in two ways. 
+This project proposed an optimal path planning method for a Catamaran. The catamaran was equiped with solar pannel and hydro generator which can produce energy in two ways. 
 
 
 ## Contributions
-???
+
 
 ## Videos
-??
+
 
 ## Related publications
 
