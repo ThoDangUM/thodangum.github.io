@@ -10,7 +10,7 @@ Dynamic configuration robot
 
 
 ## Contributions
-???
+This project proposed a reconfigurable robot which can vary its configuration during missions with respect to some criteria. 
 
 ## Related publications
 

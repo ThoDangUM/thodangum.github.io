@@ -5,12 +5,12 @@ permalink:  /posts/2025/ROS_in_Robotics/
 excerpt_separator: <!--more-->
 usemath: true
 tags:
-  - ML
+  - ROS2
   - category1
   - category2
 ---
 
-This post presents fundamentals of reinforcement learning problem:
-1. Markov Decision Process
-2. Dynamic programming
-3. Monte Carlo methods
+This post presents fundamentals of ROS2:
+1. What is ROS2?
+2. How to use ROS2?
+3. ROS2 in robotics
