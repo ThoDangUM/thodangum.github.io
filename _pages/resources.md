@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Optimization
-  - Convex optimization
-  - ??
+  - Convex optimization, S.Boyd, L.Vandenberghe, 2004
+  - Numerial Optimization, J. Nocedal, S. Wright, 1999
 
 ## Machine Learning
   - MLPs
@@ -15,9 +15,12 @@ author_profile: true
   - RNNs
   - Transformer
 
+## Control
+  - Nonlinear Control, H.Khalil
+  - ??
 ## Robotics
-  - Control
-  - Modelling
+  - 
+  - 
 
 ## ROS
   - Ros basics
