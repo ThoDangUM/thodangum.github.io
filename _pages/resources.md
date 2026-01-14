@@ -32,13 +32,15 @@ author_profile: true
   - ??
 
 ## C++ programming
-  - ??
+  - How to think like a computer scientist, C++, Allen B.Downey, 2012
+  - C++ by Dissection, Ira Pohl, 2002
+  - Professional C++, Nicholas A. Solter, Scott J. Kleper, 2005
 
 ## Python programming
   - ??
 
 ## Mathematics
-  - ??
+  - Love and Math, The heart of hidden reality, Edward Frenkel, 2013
 
 
 <!-- {% include base_path %}
