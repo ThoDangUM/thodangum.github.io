@@ -18,12 +18,14 @@ author_profile: true
 ## Control
   - Nonlinear Control, H.Khalil
   - ??
+
 ## Robotics
   - 
   - 
 
 ## ROS
-  - Ros basics
+  - ROS for Absolute Beginners, Lentin Joseph, 2018
+  - ROS Robot Programming, YoonSeok Pyo, HanCheol Cho, RyuWoon Jung, TaeHoon Lim, 2017
 
 ## Docker
   - ??
@@ -35,6 +37,7 @@ author_profile: true
   - How to think like a computer scientist, C++, Allen B.Downey, 2012
   - C++ by Dissection, Ira Pohl, 2002
   - Professional C++, Nicholas A. Solter, Scott J. Kleper, 2005
+  - Theory and Problems of Programming with C++, John R. Hubbard, 1996
 
 ## Python programming
   - ??

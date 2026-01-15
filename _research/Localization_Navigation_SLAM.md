@@ -1,5 +1,5 @@
 ---
-title: "Localization Navaigation and SLAM for Robotics"
+title: "Localization Navigation and SLAM for Robotics"
 layout: single-portfolio
 excerpt: "<img src='/images/research/TurtleBot.jpg' alt=''>"
 collection: research

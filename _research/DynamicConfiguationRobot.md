@@ -5,12 +5,12 @@ excerpt: "<img src='/images/research/UMRobot.jpg' alt=''>"
 collection: research
 order_number: 100
 ---
-Dynamic configuration robot
+This project proposed a reconfigurable robot which can vary its configuration during missions with respect to some criteria.
 
 
+## Videos
 
-## Contributions
-This project proposed a reconfigurable robot which can vary its configuration during missions with respect to some criteria. 
+ <iframe width="560" height="315" src="https://www.youtube.com/watch?v=yBBCu1z3q-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Related publications
 
