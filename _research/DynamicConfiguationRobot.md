@@ -10,7 +10,7 @@ This project proposed a reconfigurable robot which can vary its configuration du
 
 ## Videos
 
- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=yBBCu1z3q-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yBBCu1z3q-0?si=Lwj0DZZfge3GxLlP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Related publications
 
