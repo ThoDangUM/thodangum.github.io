@@ -9,10 +9,10 @@ Reinforcement learning in robotics
 
 
 
-## Contributions
+## Video
 ???
 
-## Related publications
+## Video
 
 ??
 

@@ -9,10 +9,10 @@ Neural Network Control
 
 
 
-## Contributions
+## Video
 ???
 
-## Related publications
+## Video
 
 ??
 

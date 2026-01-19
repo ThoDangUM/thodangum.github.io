@@ -9,10 +9,10 @@ Localization, Navigation and SLAM for robotics
 
 
 
-## Contributions
+## Video
 ???
 
-## Related publications
+## Video
 
 ??
 

@@ -9,10 +9,10 @@ Optimal configuration
 
 
 
-## Contributions
+## Video - Real test
 ???
 
-## Related publications
+## Video - Simulation
 
 ??
 
