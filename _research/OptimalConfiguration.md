@@ -5,15 +5,16 @@ excerpt: "<img src='/images/research/Cube.png' alt=''>"
 collection: research
 order_number: 100
 ---
-Optimal configuration  
+Optimal configuration plays a very important role in designing a robot.
 
 
 
-## Video - Real test
-???
+## Video - Cube robot real test
 
-## Video - Simulation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eie6NNAydtY?si=LX0zLb7uD-QoDhDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-??
+## Video - Simulation: Cube robot varies its configuration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6vv4pxxIcyw?si=CQ4M0WYBbWqpIN_7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!-- [Poster](/files/pdf/research/PolMeth 2019 Poster.pdf){: .btn--research} -->
