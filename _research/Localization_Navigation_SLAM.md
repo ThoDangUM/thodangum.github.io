@@ -9,10 +9,10 @@ Localization, Navigation and SLAM for robotics
 
 
 
-## Video
+## Video - TurtleBot in simulation
 ???
 
-## Video
+## Video - TurtleBot
 
 ??
 
