@@ -10,7 +10,7 @@ author_profile: true
   - Numerial Optimization, J. Nocedal, S. Wright, 1999
 
 ## Machine Learning
-  ## Books
+## Books
   - Neural Network Design, Martin T. Hagan, Howard B. Demuth, Mark Hudson Beale, and Orlando De Jesus, 2014
   - Deep Learning: Foundations and Concepts, Christopher M. Bishop, 2023
   - Pattern Recognition and Machine Learning, Christopher M. Bishop, 2006
@@ -25,20 +25,21 @@ author_profile: true
   - AI and Machine Learning for Coders, Laurence Moroney, 2020
   - Probabilistic Artificial Intelligence, Andreas Krause, Jonas Hubotter, 2025
   - Designing Machine Learning Systems, Chip Huyen, 2022
-  ## Websites
-  - ??
-  - ??
+ ## Websites
+  - https://course.fast.ai/Lessons/lesson1.html
+  
 
 ## Reinforcement Learning
-  ## Books
+## Books
   - Reinforcement Learning: An Introduction, Richard S. Sutton, Andrew G. Barto, 2018
   - Reinforcement Learning and Optimal Control, Dimitri P. Bertsekas, 2019
   - Algorithms for Reinforcement Learning, Csaba Szepesvari, 2010
   - Reinforcement Learning for Large Language Models, Arun Shankar, 2025
   - Mathematical Foundations of Reinforcement Learning, Shiyu Zhao, 2024
-  ## Websites
-  - ??
-  - ??
+## Websites
+  - https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
+  - https://lilianweng.github.io/posts/2018-04-08-policy-gradient/
+  - https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/
 
 ## Control
   - Nonlinear Control, H.Khalil
