@@ -25,6 +25,7 @@ author_profile: true
   - AI and Machine Learning for Coders, Laurence Moroney, 2020
   - Probabilistic Artificial Intelligence, Andreas Krause, Jonas Hubotter, 2025
   - Designing Machine Learning Systems, Chip Huyen, 2022
+
 ### Websites
   - https://course.fast.ai/Lessons/lesson1.html
   
@@ -36,6 +37,7 @@ author_profile: true
   - Algorithms for Reinforcement Learning, Csaba Szepesvari, 2010
   - Reinforcement Learning for Large Language Models, Arun Shankar, 2025
   - Mathematical Foundations of Reinforcement Learning, Shiyu Zhao, 2024
+
 ### Websites
   - https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
   - https://lilianweng.github.io/posts/2018-04-08-policy-gradient/
