@@ -10,6 +10,7 @@ author_profile: true
   - Numerial Optimization, J. Nocedal, S. Wright, 1999
 
 ## Machine Learning
+
 ### Books
   - Neural Network Design, Martin T. Hagan, Howard B. Demuth, Mark Hudson Beale, and Orlando De Jesus, 2014
   - Deep Learning: Foundations and Concepts, Christopher M. Bishop, 2023
@@ -31,6 +32,7 @@ author_profile: true
   
 
 ## Reinforcement Learning
+
 ### Books
   - Reinforcement Learning: An Introduction, Richard S. Sutton, Andrew G. Barto, 2018
   - Reinforcement Learning and Optimal Control, Dimitri P. Bertsekas, 2019
