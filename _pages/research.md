@@ -5,13 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-My research tackles problems of designing and controlling robots:
+My researches, works tackle problems of designing and controlling robots:
 
 - Design robot. 
 - Control robot.
 - AI in robotics.
 
-Algorithms are tested in real robots and in simulations. 
+All works are tested in simulations and in real robots.
 <nbsp>
 
 {% include base_path %}

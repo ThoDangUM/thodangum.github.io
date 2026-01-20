@@ -44,6 +44,7 @@ author_profile: true
   - https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
   - https://lilianweng.github.io/posts/2018-04-08-policy-gradient/
   - https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/
+  - https://huggingface.co/learn/deep-rl-course/en/unit4/introduction
 
 ## Control
   - Nonlinear Control, H.Khalil
