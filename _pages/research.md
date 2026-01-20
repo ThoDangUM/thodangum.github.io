@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My researches, works tackle problems of designing and controlling robots:
+My research, works tackle problems of designing and controlling robots:
 
 - Design robot. 
 - Control robot.

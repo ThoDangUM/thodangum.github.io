@@ -5,10 +5,10 @@ excerpt: "<img src='/images/research/ASVcatamaran.jpg' alt=''>"
 collection: research
 order_number: 100
 ---
-This project proposed an optimal path planning method for a Catamaran. The catamaran was equiped with solar pannel and hydro generator which can produce energy in two ways. A modified A* was used to find an optimal path which miminizes energy consumption and maximizes energy production.
+This project proposed an optimal path planning method for a Catamaran. The catamaran was equiped with solar pannel (like a kite) which can produce energy. An A*-based algorithm was used to find an optimal path which miminizes energy consumption (propulsion,...) and maximizes energy production thanks to sun's direction and wind parameters.
 
 
-## Video - Optimal path planning
+## Video - Optimal path planning w.r.t constraints (sun direction, wind parameters...)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KEq9iOf1Z38?si=QiYmFuhzqObC6IoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
