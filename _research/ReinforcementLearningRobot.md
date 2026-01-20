@@ -5,9 +5,9 @@ excerpt: "<img src='/images/research/RL.png' alt=''>"
 collection: research
 order_number: 100
 ---
-Reinforcement learning in robotics 
+Reinforcement learning has a long history but it attracts a lot of studies in recent years thanks to advanced researchs in machine learning. Many successful robotic applications as well as classical and complex control tasks have been shown such as locomotion, navigation, manipulation, mobile manipulation (mobility + manipulation), human-robot iteraction, multirobot interaction, path-following, trajectory tracking, path planning, autonomous driving, ...
 
-
+The project proposed reinforcement learning methods to control systems in simulation.
 
 ## Video - Pendulum control
 
