@@ -5,7 +5,9 @@ excerpt: "<img src='/images/research/Bluerov.jpg' alt=''>"
 collection: research
 order_number: 100
 ---
-Machine learning 
+Machine learning has been developped exponentially in recnet years. Neural network is the core of machine learning technique.
+
+The project proposed a neural network based controller for an underwater robot (BlueROV).
 
 
 

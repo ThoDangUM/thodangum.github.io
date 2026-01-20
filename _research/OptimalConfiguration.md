@@ -5,7 +5,9 @@ excerpt: "<img src='/images/research/Cube.png' alt=''>"
 collection: research
 order_number: 100
 ---
-Optimal configuration plays a very important role in designing a robot.
+Optimal design plays a very important role in designing a robot from high level (appearance,...) to low level (energy, weight,...). In low level, optimal configuration design can amplify the versaltility of robot, can save consumption energy, can make the robot to be easily control (underactuated, full-actuated or over-actuated system)   How to evaluate an optimal configuration robot design in actuation level?
+
+The project proposed performance indices which can be used to evaluate configuration design of a robot. These was evaluated on Cube robot in simulation and real test. 
 
 
 
