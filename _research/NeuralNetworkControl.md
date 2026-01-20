@@ -5,7 +5,7 @@ excerpt: "<img src='/images/research/Bluerov.jpg' alt=''>"
 collection: research
 order_number: 100
 ---
-Neural Network Control
+Machine learning 
 
 
 
