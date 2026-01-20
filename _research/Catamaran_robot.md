@@ -5,6 +5,8 @@ excerpt: "<img src='/images/research/ASVcatamaran.jpg' alt=''>"
 collection: research
 order_number: 100
 ---
+Enegery optimization plays an important role for a long trip (especially occean tasks). A solar kite will be a good solution for long-endurance surface vehicles. 
+
 This project proposed an optimal path planning method for a Catamaran. The catamaran was equiped with solar pannel (like a kite) which can produce energy. An A*-based algorithm was used to find an optimal path which miminizes energy consumption (propulsion,...) and maximizes energy production thanks to sun's direction and wind parameters.
 
 
