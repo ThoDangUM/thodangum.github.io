@@ -9,6 +9,33 @@ author_profile: true
   - Convex optimization, S.Boyd, L.Vandenberghe, 2004
   - Numerial Optimization, J. Nocedal, S. Wright, 1999
 
+## Robotics
+  - Probabilistic Robotics, Sebastian Thrun, Dieter Fox, and Wolfram Burgard, 2005
+  - Handbook of Marine Craft Hydrodynamics and Motion Control, Thor Fossen 2021
+  - Small Unmanned Aircraft: Theory and Practice, Randy Beard, and Tim McLain, 2012
+  - Principles of Robot Motion: Theory, Algorithms, and Implementation, Howie Chose et all, 2005
+  - Introduction to Autonomous Mobile Robots, R. Siegwart, I. Nourbakhsh, D. Scaramuzza, 2011
+  - Handbook of Robotics, edited by Bruno Siciliano, Oussama Khatib, 2016
+
+## ROS
+  - ROS for Absolute Beginners, Lentin Joseph, 2018
+  - ROS Robot Programming, YoonSeok Pyo, HanCheol Cho, RyuWoon Jung, TaeHoon Lim, 2017
+
+## Reinforcement Learning
+
+### Books
+  - Reinforcement Learning: An Introduction, Richard S. Sutton, Andrew G. Barto, 2018
+  - Reinforcement Learning and Optimal Control, Dimitri P. Bertsekas, 2019
+  - Algorithms for Reinforcement Learning, Csaba Szepesvari, 2010
+  - Reinforcement Learning for Large Language Models, Arun Shankar, 2025
+  - Mathematical Foundations of Reinforcement Learning, Shiyu Zhao, 2024
+
+### Websites
+  - https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
+  - https://lilianweng.github.io/posts/2018-04-08-policy-gradient/
+  - https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/
+  - https://huggingface.co/learn/deep-rl-course/en/unit4/introduction
+
 ## Machine Learning
 
 ### Books
@@ -26,47 +53,19 @@ author_profile: true
   - AI and Machine Learning for Coders, Laurence Moroney, 2020
   - Probabilistic Artificial Intelligence, Andreas Krause, Jonas Hubotter, 2025
   - Designing Machine Learning Systems, Chip Huyen, 2022
+  - The Elements of Statistical Learning: Data mining, Inference, and Prediction, Trevor Hastie, Robert Tibshirani, and Jerome Friedman, 2008
 
 ### Websites
   - https://course.fast.ai/Lessons/lesson1.html
   
 
-## Reinforcement Learning
-
-### Books
-  - Reinforcement Learning: An Introduction, Richard S. Sutton, Andrew G. Barto, 2018
-  - Reinforcement Learning and Optimal Control, Dimitri P. Bertsekas, 2019
-  - Algorithms for Reinforcement Learning, Csaba Szepesvari, 2010
-  - Reinforcement Learning for Large Language Models, Arun Shankar, 2025
-  - Mathematical Foundations of Reinforcement Learning, Shiyu Zhao, 2024
-
-### Websites
-  - https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
-  - https://lilianweng.github.io/posts/2018-04-08-policy-gradient/
-  - https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/
-  - https://huggingface.co/learn/deep-rl-course/en/unit4/introduction
-
 ## Control
   - Nonlinear Control, H.Khalil
   - Model Predictive Control: Theory, Computation, and Design, James B. Rawlings, David Q. Mayne, and Moritz M. Diehl, 2017
   - The control handbook series: Fundamentals, Applications, and Advanced Methods, edited by William S. Levine, 2011
-  - Handbook of Robotics, edited by Bruno Siciliano, Oussama Khatib, 2016
-
+  
 ## Estimation
   - Optimal State Estimation, Dan Simon, 2006
-
-
-## Robotics
-  - Probabilistic Robotics, Sebastian Thrun, Dieter Fox, and Wolfram Burgard, 2005
-  - Handbook of Marine Craft Hydrodynamics and Motion Control, Thor Fossen 2021
-  - Small Unmanned Aircraft: Theory and Practice, Randy Beard, and Tim McLain, 2012
-  - Principles of Robot Motion: Theory, Algorithms, and Implementation, Howie Chose et all, 2005
-  - Introduction to Autonomous Mobile Robots, R. Siegwart, I. Nourbakhsh, D. Scaramuzza, 2011
-  - The Elements of Statistical Learning: Data mining, Inference, and Prediction, Trevor Hastie, Robert Tibshirani, and Jerome Friedman, 2008
-
-## ROS
-  - ROS for Absolute Beginners, Lentin Joseph, 2018
-  - ROS Robot Programming, YoonSeok Pyo, HanCheol Cho, RyuWoon Jung, TaeHoon Lim, 2017
 
 
 ## Algorithms and Data Structures
