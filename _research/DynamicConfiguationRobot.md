@@ -5,6 +5,8 @@ excerpt: "<img src='/images/research/UMRobot.jpg' alt=''>"
 collection: research
 order_number: 100
 ---
+Reconfigurable robot design is a promising idea to enhance the flexibility, capacity, and versatility of robot to deal with confined environments, external disturbances. A robot can vary its configuration due to each mission to mimimize or maximize performances.
+
 This project proposed a reconfigurable robot which can vary its configuration during missions with respect to some criteria (minimizing energy,...). 
 
 

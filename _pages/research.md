@@ -7,9 +7,9 @@ author_profile: true
 
 My research, works tackle problems of designing and controlling robots:
 
-- Design robot. 
-- Control robot.
-- AI in robotics.
+- Robot design. 
+- Robot control.
+- Machine learning in robotics.
 
 All works are tested in simulations and in real robots.
 <nbsp>
