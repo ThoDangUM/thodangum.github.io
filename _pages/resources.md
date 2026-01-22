@@ -35,6 +35,10 @@ author_profile: true
   - https://lilianweng.github.io/posts/2018-04-08-policy-gradient/
   - https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/
   - https://huggingface.co/learn/deep-rl-course/en/unit4/introduction
+  - https://stable-baselines3.readthedocs.io/en/master/
+  - https://spinningup.openai.com/en/latest/
+  - https://openai.com/index/openai-baselines-ppo/
+  - https://github.com/udacity/deep-reinforcement-learning/tree/master
 
 ## Machine Learning
 
