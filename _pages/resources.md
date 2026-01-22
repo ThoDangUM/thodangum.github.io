@@ -40,6 +40,10 @@ author_profile: true
   - https://openai.com/index/openai-baselines-ppo/
   - https://github.com/udacity/deep-reinforcement-learning/tree/master
 
+### Courses
+  - Reinforcement learning course by David Silver
+  - Deep Reinforcement learning course by Sergey Levince (UC Berkeley)
+
 ## Machine Learning
 
 ### Books
