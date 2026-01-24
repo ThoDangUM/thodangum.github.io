@@ -6,8 +6,15 @@ author_profile: true
 ---
 
 ## Optimization
+
+### Books
   - Convex optimization, S.Boyd, L.Vandenberghe, 2004
   - Numerial Optimization, J. Nocedal, S. Wright, 1999
+
+### Tools
+  - CasADI
+  - qpOASES
+  - ACADOS
 
 ## Robotics
   - Probabilistic Robotics, Sebastian Thrun, Dieter Fox, and Wolfram Burgard, 2005
