@@ -78,6 +78,7 @@ author_profile: true
 
 ### Websites
   - https://course.fast.ai/Lessons/lesson1.html
+  - https://karpathy.ai/
   
 
 ## Control
