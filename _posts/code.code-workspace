@@ -1,0 +1,61 @@
+{
+	"folders": [
+		{
+			"name": "code",
+			"path": "../../../../../media/thodang/Stock/Seafile/Research/Projet_M2/code"
+		},
+		{
+			"name": "ros2_ws",
+			"path": "../../../ros2_ws"
+		},
+		{
+			"name": "PINNs",
+			"path": "../../../../../media/thodang/Stock/Seafile/Research/PINNs"
+		},
+		{
+			"name": "ML",
+			"path": "../../../../../media/thodang/Stock/Seafile/Research/ML"
+		},
+		{
+			"name": "CasADi",
+			"path": "../../../../../media/thodang/Stock/Seafile/Research/CasADi"
+		},
+		{
+			"name": "NeuralNet",
+			"path": "../../../../../media/thodang/Stock/Seafile/Research/NeuralNet"
+		},
+		{
+			"name": "Algos_DataStructure_Programming",
+			"path": "../../../../../media/thodang/Stock/Seafile/Research/Algos_DataStructure_Programming"
+		},
+		{
+			"name": "Bilan_sorti_Tho",
+			"path": "../../../../../media/thodang/Stock/Seafile/Research/Reunions/Bilan_sorti_Tho"
+		},
+		{
+			"name": "thodangwebsite",
+			"path": ".."
+		},
+		{
+			"name": "Pioneer",
+			"path": "../../../../../media/thodang/Stock/Seafile/Research/Pioneer"
+		},
+		{
+			"name": "RL",
+			"path": "../../../RL"
+		},
+		{
+			"name": "CplusplusProject",
+			"path": "../../../../../media/thodang/Stock/Seafile/C++/CplusplusProject"
+		},
+		{
+			"name": "pybullet",
+			"path": "../../../../../media/thodang/Stock/Seafile/Research/pybullet"
+		},
+		{
+			"name": "Probability",
+			"path": "../../../../../media/thodang/Stock/Seafile/Research/Probability"
+		}
+	],
+	"settings": {}
+}

@@ -14,6 +14,7 @@ Deep reinforcement learning has actractted many works in robotics. This post int
 
 1. DDPG (Deep Deterministic Policy Gradient)
 
-DDPG is a combination between DQN (Deep-Q Network) and DPG (Deep Policy Gradient). First, we introduce DQN 
+DDPG is a combination between DQN (Deep-Q Network) and DPG (Deep Policy Gradient). DDPG can be used for systems which have continuous space.
+First, we introduce DQN. DQN is Q-learning using deep network.  
 
 2. PPO (Proximal Policy Optimization)

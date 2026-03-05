@@ -32,6 +32,7 @@ author_profile: true
 
 ### Websites
   - https://husarion.com/tutorials/ros2-tutorials/ros2/
+  - https://articulatedrobotics.xyz/tutorials/
 
 ## Reinforcement Learning
 
