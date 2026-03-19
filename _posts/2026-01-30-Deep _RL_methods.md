@@ -19,5 +19,10 @@ First, we introduce DQN. DQN is Q-learning using deep network.
 
 2. PPO (Proximal Policy Optimization)
 
- First, we introduce the probability ratio between new policy and old policy:\
+First, we introduce the probability ratio between new policy and old policy:
+
  $$r(\theta) = \frac{\pi_{\theta}(a,s)}{\pi_{\theta_old}(a,s)}$$
+
+The objective function is defined as:
+
+$$J(\theta) = $$
