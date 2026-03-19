@@ -18,3 +18,6 @@ DDPG is a combination between DQN (Deep-Q Network) and DPG (Deep Policy Gradient
 First, we introduce DQN. DQN is Q-learning using deep network.  
 
 2. PPO (Proximal Policy Optimization)
+
+ First, we introduce the probability ratio between new policy and old policy:\
+ $$r(\theta) = \frac{\pi_{\theta}(a,s)}{\pi_{\theta_old}(a,s)}$$
