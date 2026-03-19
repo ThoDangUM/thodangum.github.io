@@ -27,7 +27,7 @@ I never though how to prove this formula until seeing a simple proof with an int
 
 First, we introduce the probability ratio between new policy and old policy:
 
-$$ \begin{equation} r(\theta) = \frac{\pi_{\theta}(a,s)}{\pi_{\theta_old}(a,s)} \end{equation} $$
+$\begin{equation} r(\theta) = \frac{\pi_{\theta}(a,s)}{\pi_{\theta_{old}}(a,s)} \end{equation}$
 
 
 The objective function is defined as:
