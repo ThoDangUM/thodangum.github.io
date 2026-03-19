@@ -26,11 +26,11 @@ $$\begin{equation}
 \end{equation}
 $$
 
-The objective function is defined as: please consider
+The objective function is defined as:
 
-$\begin{equation} 
+$$\begin{equation} 
   J(\theta) = E() 
 \end{equation}
-$
+$$
 
 
