@@ -25,6 +25,6 @@ $$\begin{equation} r(\theta) = \frac{\pi_{\theta}(a,s)}{\pi_{\theta_{old}}(a,s)}
 
 The objective function is defined as:
 
-$J(\theta) = E()$
+$\begin{equation} J(\theta) = E() \end{equation}$
 
 
