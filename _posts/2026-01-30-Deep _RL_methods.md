@@ -20,7 +20,7 @@ First, we introduce DQN. DQN is Q-learning using deep network.
 # **PPO (Proximal Policy Optimization)**
 
 First, we introduce the probability ratio between new policy and old policy:
-  
+
 $$
 \begin{equation} 
   r(\theta) = \frac{\pi_{\theta}(a,s)}{\pi_{\theta_{old}}(a,s)} 
@@ -31,8 +31,15 @@ The objective function is defined as:
 
 $$
 \begin{equation} 
-  J(\theta) = E() 
+  J^{CLIP}(\theta) = E(r(\theta),A(a,s)) 
 \end{equation}
 $$
 
+The objective function with KL divergence is defined as:
+
+$$
+\begin{equation} 
+  J^{KL,CLIP}(\theta) = E(r(\theta),A(a,s)) 
+\end{equation}
+$$
 
