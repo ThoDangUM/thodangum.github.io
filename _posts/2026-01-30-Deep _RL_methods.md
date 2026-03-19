@@ -21,10 +21,16 @@ First, we introduce DQN. DQN is Q-learning using deep network.
 
 First, we introduce the probability ratio between new policy and old policy:
 
-$$\begin{equation} r(\theta) = \frac{\pi_{\theta}(a,s)}{\pi_{\theta_{old}}(a,s)} \end{equation}$$
+$$\begin{equation} 
+  r(\theta) = \frac{\pi_{\theta}(a,s)}{\pi_{\theta_{old}}(a,s)} 
+\end{equation}
+$$
 
-The objective function is defined as:
+The objective function is defined as: please consider
 
-$\begin{equation} J(\theta) = E() \end{equation}$
+$\begin{equation} 
+  J(\theta) = E() 
+\end{equation}
+$
 
 
