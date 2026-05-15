@@ -23,6 +23,9 @@ author_profile: true
   - Principles of Robot Motion: Theory, Algorithms, and Implementation, Howie Chose et all, 2005
   - Introduction to Autonomous Mobile Robots, R. Siegwart, I. Nourbakhsh, D. Scaramuzza, 2011
   - Handbook of Robotics, edited by Bruno Siciliano, Oussama Khatib, 2016
+  - Modern Robotics: Mechanics, Planning, and Control, Kevin M. Lynch and Frank C. Park, 2017
+  - Introduction to robotics: Mechanics and Control, John Craig, Fourth Edition, 2022
+  - Robot Modeling and Control, Mark W. Spong, Seth Hutchinson, M. Vidyasagar, Second Edition, 2020
 
 ## ROS
 
