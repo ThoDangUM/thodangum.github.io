@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-You can download  my CV in French [here](/files/cv/CV_DANG HUU THO_french_V8.pdf) and in English [here](/files/cv/CV_DANG HUU THO_english_V3.pdf).
+You can download  my CV in French [here](/files/cv/CV_DANG HUU THO_french_V9.pdf) and in English [here](/files/cv/CV_DANG HUU THO_english_V4.pdf).
 
