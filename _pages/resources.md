@@ -14,7 +14,9 @@ author_profile: true
 ### Tools
   - CasADI
   - qpOASES
-  - ACADOS
+  - acados
+  - MuJuCo
+  - Gazebo
 
 ## Robotics
   - Probabilistic Robotics, Sebastian Thrun, Dieter Fox, and Wolfram Burgard, 2005
