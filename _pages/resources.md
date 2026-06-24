@@ -15,8 +15,11 @@ author_profile: true
   - CasADI
   - qpOASES
   - acados
-  - MuJuCo
+  - MuJoCo
   - Gazebo
+  - PyBullet
+  - Issac Sim, Ominverse
+  - Unreal Engine
 
 ## Robotics
   - Probabilistic Robotics, Sebastian Thrun, Dieter Fox, and Wolfram Burgard, 2005
